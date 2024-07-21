@@ -41,11 +41,21 @@ GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 python app.py
 ```
 
+
+
 Now,
 
 ```bash
 open up localhost:
 ```
+
+## Sample
+
+![OpenAI Logo](https://github.com/codeakki/ImageExtractor-Gemini-1.5/blob/main/image.png)
+![OpenAI Logo](https://github.com/codeakki/ImageExtractor-Gemini-1.5/blob/main/image2.png)
+
+
+
 
 ### Techstack Used:
 
