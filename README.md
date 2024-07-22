@@ -2,7 +2,7 @@
 
 Sample invoice or image extractor using gemini model
 
-# END to END AIMediBot using LLAMA2
+
 
 # How to run?
 
